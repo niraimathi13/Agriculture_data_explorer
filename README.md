@@ -12,3 +12,9 @@ This project aims to develop an interactive data visualization platform that int
 - Exportable reports: Download insights as PDF or Excel for sharing.
 - User friendly interface: Clean,responsive design for all users.
 - Role-Based access: Custom views for farmers,researchers and policymakers. 
+
+## Technologies used
+
+- Python 
+- SQL
+- Power BI 
