@@ -18,3 +18,50 @@ This project aims to develop an interactive data visualization platform that int
 - Python 
 - SQL
 - Power BI 
+
+## Installation
+
+📥 Install via Microsoft Store (Recommended)
+- Click Get to install Power BI Desktop directly.
+- Sign in with your Microsoft account if prompted.
+
+🐬 MySQL Workbench Installation
+
+✅ Prerequisites
+- Operating System: Windows 10/11, macOS, or Linux
+- Administrator privileges on the system
+
+💾 Download MySQL Installer
+  
+- Go to the official download page: https://dev.mysql.comdownloads/workbench
+- Click Download under the appropriate OS version.
+- Select "No thanks, just start my download" if not signing in.
+
+📦 Run the Installer:
+
+- Double-click the downloaded .msi file.
+- Choose "MySQL Workbench" from the installation options.
+- Click Next and accept the license agreement.
+
+⚙️ Complete the Installation
+
+- Follow the installer steps until setup is complete.
+- Click Finish when done.
+
+🔍 Post-Installation
+
+- Launch MySQL Workbench.
+- Create a new connection using your MySQL Server credentials (hostname, port, username, password).
+
+📦 Installing Matplotlib, Seaborn, and NumPy in Jupyter Notebook
+
+✅ Prerequisites
+- Python installed (via Anaconda or manually)
+- Jupyter Notebook installed and working
+
+📥 Install Libraries Using !pip install Inside a Notebook Cell
+
+- !pip install matplotlib
+- !pip install seaborn
+- !pip install numpy
+
